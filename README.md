@@ -1,1 +1,1 @@
-#this is a part of directory traversal step to autoscripting for burp
+#this is a part of directory traversal step to autoscripting for burpsuite.

@@ -1,0 +1,11 @@
+########################################################
+
+Mission 0 - File path traversal.
+
+Target : Retrive the contents of the etc/passwd file.
+
+Analysis:
+/var/www/image/65.jpg
+etc/passwd
+
+########################################################
